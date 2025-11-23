@@ -9,6 +9,11 @@ Kotlin Multiplatform (KMM) + Compose Multiplatform prototype that allows users t
 https://github.com/ShubhamKrishna0/jossh-talk.git
 
 ---
+## 🔗 Apk Link
+
+https://github.com/ShubhamKrishna0/jossh-talk/releases/download/v1.0.0/app-debug.apk
+
+---
 
 ## ▶️ Build Command
 
